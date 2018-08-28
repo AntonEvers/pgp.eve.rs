@@ -1,11 +1,10 @@
 # One Page Wonder Jekyll
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+# Licenses
+* Theme: [one-page-wonder-jekyll](https://github.com/mushishi78/one-page-wonder-jekyll) MIT License
 
-## Contributing
+# Image Licenses
+All images are under Public Domain (CC0), except otherwise noted.
 
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+Sources:
+* https://pixabay.com/en/workstation-office-business-336369/
